@@ -1,0 +1,4 @@
+# /boot/firmware/config.txt (RPi 5)
+dtparam=i2c_arm=on
+dtoverlay=i2c3,pins_4_5
+dtoverlay=i2c4,pins_8_9

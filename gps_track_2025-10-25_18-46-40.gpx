@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="RaspberryPi GPS Logger"
+     xmlns="http://www.topografix.com/GPX/1/1"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <trk>
+    <name>GPS Track</name>
+    <trkseg>
+      <trkpt lat="54.522757" lon="18.514076">
+        <ele>58.1</ele>
+        <time>2025-10-25T16:46:41Z</time>
+      </trkpt>
+      <trkpt lat="54.522756" lon="18.514076">
+        <ele>57.8</ele>
+        <time>2025-10-25T16:46:46Z</time>
+      </trkpt>
+      <trkpt lat="54.522756" lon="18.514075">
+        <ele>57.4</ele>
+        <time>2025-10-25T16:46:51Z</time>
+      </trkpt>
+      <trkpt lat="54.522757" lon="18.514075">
+        <ele>57.0</ele>
+        <time>2025-10-25T16:46:56Z</time>
+      </trkpt>
+      <trkpt lat="54.522757" lon="18.514074">
+        <ele>56.7</ele>
+        <time>2025-10-25T16:47:01Z</time>
+      </trkpt>
+      <trkpt lat="54.522757" lon="18.514074">
+        <ele>56.3</ele>
+        <time>2025-10-25T16:47:06Z</time>
+      </trkpt>
+      <trkpt lat="54.522757" lon="18.514074">
+        <ele>55.9</ele>
+        <time>2025-10-25T16:47:11Z</time>
+      </trkpt>
+      <trkpt lat="54.522757" lon="18.514073">
+        <ele>55.5</ele>
+        <time>2025-10-25T16:47:16Z</time>
+      </trkpt>
+      <trkpt lat="54.522759" lon="18.514076">
+        <ele>54.4</ele>
+        <time>2025-10-25T16:47:21Z</time>
+      </trkpt>
+      <trkpt lat="54.522758" lon="18.514075">
+        <ele>54.4</ele>
+        <time>2025-10-25T16:47:26Z</time>
+      </trkpt>
+      <trkpt lat="54.522759" lon="18.514075">
+        <ele>54.4</ele>
+        <time>2025-10-25T16:47:31Z</time>
+      </trkpt>
+      <trkpt lat="54.522759" lon="18.514076">
+        <ele>54.5</ele>
+        <time>2025-10-25T16:47:36Z</time>
+      </trkpt>
+      <trkpt lat="54.522760" lon="18.514077">
+        <ele>54.7</ele>
+        <time>2025-10-25T16:47:41Z</time>
+      </trkpt>

@@ -1,0 +1,8 @@
+smbus2
+mpu9250-jmdev
+bmp280
+pigpio
+numpy
+pyqtgraph
+PyOpenGL
+PyOpenGL_accelerate
